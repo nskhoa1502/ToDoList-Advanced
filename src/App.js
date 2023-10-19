@@ -1,5 +1,8 @@
+import { Content, Header } from "./components";
+
 export const App = () => (
   <div className="App">
-    <h1>React App</h1>
+    <Header />
+    <Content />
   </div>
 );
