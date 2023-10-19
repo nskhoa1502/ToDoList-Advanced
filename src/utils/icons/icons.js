@@ -1,5 +1,17 @@
-import { FaPizzaSlice } from "react-icons/fa";
+import {
+  FaPizzaSlice,
+  FaChevronDown,
+  FaInbox,
+  FaRegCalendarAlt,
+  FaRegCalendar,
+} from "react-icons/fa";
 
-const icons = { FaPizzaSlice };
+const icons = {
+  FaPizzaSlice,
+  FaChevronDown,
+  FaInbox,
+  FaRegCalendarAlt,
+  FaRegCalendar,
+};
 
 export default icons;
